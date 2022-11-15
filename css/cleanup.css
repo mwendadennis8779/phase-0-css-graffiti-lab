@@ -1,1 +1,9 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display:none;
+    z-index: 7;
+}
+#wall .parent #tag-4  {
+    display: block;
+    z-index: 5;
+}
